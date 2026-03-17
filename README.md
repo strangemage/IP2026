@@ -8,6 +8,6 @@ Homework2
 
 
 
-[![Video](https://img.youtube.com/kHLxTSISUlcvi//maxresdefault.jpg)](https://www.youtube.com/watch?v=kHLxTSISUlc)
+[![Video](https://img.youtube.com/kHLxTSISUlc//maxresdefault.jpg)](https://www.youtube.com/watch?v=kHLxTSISUlc)
 
 # 20211361 김우진
