@@ -7,5 +7,5 @@ Homework2
 
 Homework1
 
-[https://youtu.be/wLqRPXsbMoo](https://youtu.be/wLqRPXsbMoo)
+[(https://youtu.be/DGazy8-2fhk)](https://youtu.be/DGazy8-2fhk)
 # 20211361 김우진
